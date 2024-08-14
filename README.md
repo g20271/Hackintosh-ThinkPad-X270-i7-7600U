@@ -2,7 +2,7 @@
 
 Welcome to the Hackintosh build guide for the **Lenovo ThinkPad X270** powered by an **Intel i7-7600U**.  
 Not compatible like 6th gen cpu.  
-This repository is too many bugs now.  
+This repository is too many bugs and untested functions now.  
 
 ## 📋 System Overview
 
@@ -10,7 +10,7 @@ This repository is too many bugs now.
 - **Processor:** Intel Core i7-7600U
 - **macOS Version:** Monterey
 - **Bootloader:** OpenCore
-- **BIOS Version:** [Insert BIOS version here]
+- **BIOS Version:** R0IET69W (1.47)
 
 ---
 
@@ -44,3 +44,5 @@ This repository is too many bugs now.
 | **Internal SD Card Reader** | ❌ Not Working | Currently not supported |
 | **Fingerprint Sensor**| ❌ Not Working | Not functional in macOS |
 
+# Acknowledgements
+- [thinkpad-x1-carbon-5th-gen-hackintosh](https://github.com/mcjimsr/thinkpad-x1-carbon-5th-gen-hackintosh)
