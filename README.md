@@ -19,10 +19,10 @@ This repository is too many bugs and untested functions now.
 | Component            | Status        | Details                        |
 |----------------------|---------------|--------------------------------|
 | **CPU**              | ✔️ Working    | Fully functional with power management |
-| **Graphics (Intel HD 620)** | ✔️ Working | QE/CI supported, smooth performance |
+| **Graphics (Intel HD 620)** | ✔️ Working | smooth performance |
 | **Wi-Fi** | ✔️ Working |  |
 | **USB Ports**         | ✔️ Working    | All USB ports functional |
-| **Trackpad & Keyboard**| ✔️ Working   | Multitouch gestures supported but when functional key press, cursor doesn't move |
+| **Trackpad & Keyboard**| ✔️ Working   | Multitouch gestures supported but when ctrl or meta, alt key press, cursor doesn't move |
 | **Internal Display** | ✔️ Working |  |
 | **Sleep/Wake**       | ✔️ Working |  |
 ---
@@ -31,7 +31,7 @@ This repository is too many bugs and untested functions now.
 
 | Component            | Status        | Details                        |
 |----------------------|---------------|--------------------------------|
-| **External Display(HDMI)** | ⚠️ Partially Working | ok 1920x1080,  |
+| **External Display(HDMI)** | ⚠️ Partially Working | ok 1920x1080, 4k output doesn't work |
 | **Intel Bluetooth**   | ❌ Not Working | Requires replacement or a USB dongle |
 | **Audio (ALC Audio)** | ✔️ Working    | Speaker is good sound, but headphone jack is poor sound quality. |
 
