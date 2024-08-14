@@ -33,7 +33,7 @@ This repository is too many bugs and untested functions now.
 |----------------------|---------------|--------------------------------|
 | **External Display(HDMI)** | ⚠️ Partially Working | ok 1920x1080, 4k output doesn't work |
 | **Intel Bluetooth**   | ❌ Not Working | Requires replacement or a USB dongle |
-| **Audio (ALC Audio)** | ✔️ Working    | Speaker is good sound, but headphone jack is poor sound quality. |
+| **Audio (ALC Audio)** | ✔️ Working    | Speaker is good sound, but headphone jack is poor sound quality. Mic doesn't work |
 
 
 ## ❔ Untested
